@@ -1,0 +1,21 @@
+PROJECT 1 — SOURCE LIST
+Cyber Threat Landscape Brief for College Students
+
+1. University of Minnesota, Data Incident Notification (3 Oct 2024)
+https://twin-cities.umn.edu/news-events/data-incident-notification
+
+2. Verizon, 2025 Data Breach Investigations Report
+https://www.verizon.com/business/resources/reports/dbir/
+Verizon, Additional 2025 DBIR research on credential stuffing
+https://www.verizon.com/business/resources/articles/credential-stuffing-attacks-2025-dbir-research/
+
+3. NHS England, Synnovis cyber incident
+https://www.england.nhs.uk/synnovis-cyber-incident/
+
+4. Canadian Radio-television and Telecommunications Commission, Wi-fi Hotspots and “Evil Twins”
+https://crtc.gc.ca/eng/publications/reports/rp110929.pdf
+
+5. Cyber Swachhta Kendra / CERT-In, SpyMax Android Malware (25 Jun 2025)
+https://www.csk.gov.in/alerts/SpyMax_android_malware.html
+
+Prepared as a beginner-level awareness project. Verify source URLs and access dates before submission.
